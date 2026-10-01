@@ -1,5 +1,7 @@
 venv/
 .venv/
 data/raw/*
+!data/raw/.gitkeep
+!data/.gitkeep
 __pycache__/
 .ipynb_checkpoints/
